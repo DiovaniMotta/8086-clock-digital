@@ -16,9 +16,9 @@ LDFLAGS=/CODEVIEW
 ## Processing Tools
 ASM=ml.exe
 LD=link16.exe
-#  C:/Users/Gabriel/Documents/GitHub/8086-clock-digital/GRAFICO_8086/8086/Debug/Debug.exe: TOOL=LD
-#     C:/Users/Gabriel/Documents/GitHub/8086-clock-digital/GRAFICO_8086/8086/Debug/animacao.obj: TOOL=ASM
-#        C:/Users/Gabriel/Documents/GitHub/8086-clock-digital/GRAFICO_8086/8086/animacao.asm
+#  C:/Users/Felipe/git/8086-clock-digital/GRAFICO_8086/8086/Debug/Debug.exe: TOOL=LD
+#     C:/Users/Felipe/git/8086-clock-digital/GRAFICO_8086/8086/Debug/animacao.obj: TOOL=ASM
+#        C:/Users/Felipe/git/8086-clock-digital/GRAFICO_8086/8086/animacao.asm
 
 # Build tree:
 all:	Debug
